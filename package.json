@@ -15,7 +15,7 @@
     "bootstrap": "^4.4.1",
     "core-js": "^3.4.4",
     "firebase": "^7.9.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.1",
     "stripe": "^8.24.0",
     "v-animate-css": "0.0.3",
