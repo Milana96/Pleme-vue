@@ -90,6 +90,7 @@
         :image="product.image"
         :name="product.name"
         :price="product.price"
+        :stock="product.stock"
         :url="url"
       ></most-wanted-product>
     </section>
