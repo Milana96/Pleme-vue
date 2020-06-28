@@ -1,0 +1,66 @@
+[
+  {
+    "id": 4,
+    "type": "Gold necklaces",
+    "image": "/src/images/IMG_20190928_142843_611.jpg",
+    "hover_image": "/src/images/fmu.png",
+    "color": "gold",
+    "price": 1200,
+    "name": "Shell necklace",
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200, 
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Gold necklace",
+        "size": "22mm",
+        "chain": "Adjustable clasp from 35 to 50 cm",
+        "size": "46.5cm + 7cm, 57cm + 7cm, 71.5cm + 7cm"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "Gold necklaces",
+    "image": "/src/images/medallion-necklace.jpg",
+    "hover_image": "/src/images/20200126_112111.jpg",
+    "color": "gold",
+    "price": 1200,
+    "name": "Medallion necklace",
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200, 
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Gold necklace",
+        "weight": "20 g",
+        "size": "46.5cm + 7cm, 57cm + 7cm, 71.5cm + 7cm"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "type": "Silver necklaces",
+    "image": "/src/images/no_1.jpg",
+    "color": "silver",
+    "price": 1200,
+    "name": "Rose necklace",
+    "description": "Elegant silver rose necklace. Chain can be resizable",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200, 
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Gold necklace",
+        "size": "22mm",
+        "chain": "Adjustable clasp from 35 to 50 cm",
+        "size": "46.5cm + 7cm, 57cm + 7cm, 71.5cm + 7cm"
+      }
+    ]
+  }
+]

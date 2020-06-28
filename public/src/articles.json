@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Ovaj modni detalj ubedljivo je najnosiviji u Milanu",
+        "image": "/src/images/article1.jfif",
+        "gallery_images": [
+            {
+                "image1": "/src/images/article1a.jpg",
+                "image2": "/src/images/article1b.jpg",
+                "image3": "/src/images/article1c.jpg",
+                "image4": ""
+            }
+        ],
+        "description": [
+            {
+                "paragraph1": "Kada se u moru aksesoara, izdvoji samo jedan, onda znate da se radi o ozbiljnom trendu.\r\n\r\nBilo da je u pitanju sivo, sun\u010Dano, delimi\u010Dno obla\u010Dno ili delimi\u010Dno sun\u010Dano vreme na kraju krajeva, od jutra do mraka devojke u Milanu ovih dana nose nao\u010Dare za sunce.\r\n\r\nDobar par nao\u010Dara za sunce, pogotovo ukoliko je u pitanju jedan kvalitetan komad (ko god je u prilici da investira u takav, svaki stilista \u0107e mu re\u0107i kako je to jedna od najboljih stilskih odluka koje je ikada doneo) mo\u017Ee podi\u0107i i najjednostavniji stajling u koji tek da ste ulo\u017Eili ne\u0161to truda.",
+                "paragraph2": "\r\n\r\nPrimeti\u0107ete i sami, gledaju\u0107i ove fotografije street style-a nastale tokom Nedelje mode u Milanu, da ve\u0107ina odevnih kombinacija nije nikakva naro\u010Dita modna mudrost, ali zahvaljuju\u0107i dobrom paru nao\u010Dara za sunce, stajling se ipak di\u017Ee na vi\u0161i nivo.\r\n\r\nAktuelni su modeli iz perioda s po\u010Detka 90-ih godina, blago zaobljene i izdu\u017Eene nao\u010Dare, te u formi pravougaonika.\r\n\r\nTu su i super oversized modeli sa kockastim staklima, kao najnoviji trend.\r\n\r\nDok su ma\u010Dkasti oblici sada ve\u0107 nezaobilazna klasika."
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Ovaj modni detalj ubedljivo je najnosiviji u Milanu",
+        "image": "/src/images/article1.jfif",
+        "gallery_images": [
+            {
+                "image1": "/src/images/article1a.jpg",
+                "image2": "/src/images/article1b.jpg",
+                "image3": "/src/images/article1c.jpg",
+                "image4": ""
+            }
+        ],
+        "description": [
+            {
+                "paragraph1": "Kada se u moru aksesoara, izdvoji samo jedan, onda znate da se radi o ozbiljnom trendu.\r\n\r\nBilo da je u pitanju sivo, sun\u010Dano, delimi\u010Dno obla\u010Dno ili delimi\u010Dno sun\u010Dano vreme na kraju krajeva, od jutra do mraka devojke u Milanu ovih dana nose nao\u010Dare za sunce.\r\n\r\nDobar par nao\u010Dara za sunce, pogotovo ukoliko je u pitanju jedan kvalitetan komad (ko god je u prilici da investira u takav, svaki stilista \u0107e mu re\u0107i kako je to jedna od najboljih stilskih odluka koje je ikada doneo) mo\u017Ee podi\u0107i i najjednostavniji stajling u koji tek da ste ulo\u017Eili ne\u0161to truda.",
+                "paragraph2": "\r\n\r\nPrimeti\u0107ete i sami, gledaju\u0107i ove fotografije street style-a nastale tokom Nedelje mode u Milanu, da ve\u0107ina odevnih kombinacija nije nikakva naro\u010Dita modna mudrost, ali zahvaljuju\u0107i dobrom paru nao\u010Dara za sunce, stajling se ipak di\u017Ee na vi\u0161i nivo.\r\n\r\nAktuelni su modeli iz perioda s po\u010Detka 90-ih godina, blago zaobljene i izdu\u017Eene nao\u010Dare, te u formi pravougaonika.\r\n\r\nTu su i super oversized modeli sa kockastim staklima, kao najnoviji trend.\r\n\r\nDok su ma\u010Dkasti oblici sada ve\u0107 nezaobilazna klasika."
+            }
+            
+        ]
+    }
+]

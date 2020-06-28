@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/trending.jpg",
+    "hover_image": "/src/images/srgbs.png",
+    "price": 1200,
+    "name": "Gold drop earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "21 g",
+        "height": "6 cm"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/gold-loop.png",
+    "hover_image": "/src/images/jgj.png",
+    "price": 1200,
+    "name": "Gold hoops",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "30 g",
+        "height": "5.5 cm"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/background_slide2.jpg",
+    "hover_image": "/src/images/dfgdfg.png",
+    "galery_image": "/src/images/gold-chain.jpg",
+    "price": 1200,
+    "name": "Gold chain earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "New metal geometry chain irregular earrings. Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "24 g",
+        "height": "5.5 cm"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/gold-drop.png",
+    "hover_image": "/src/images/sthsrthsrt.png",
+    "price": 1200,
+    "name": "Gold drop",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Fashion accessories personality irregular alloy hollow stud earrings accessories. Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "12 g",
+        "height": "6 cm"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/massive-face.jpg",
+    "hover_image": "/src/images/dnzt.png",
+    "price": 1200,
+    "name": "Massive face earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Lady vintage wacky abstract human face earrings for women. Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "7.2 g",
+        "size": "4x2 cm"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/20180824_090526.png",
+    "hover_image": "/src/images/xgrgxr.png",
+    "price": 1200,
+    "name": "Heart face earrings",
+    "quantity": 0,
+    "stock": 1,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "30 g",
+        "height": "5.5 cm"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "color": "gold",
+    "type": "Gold stud earrings",
+    "image": "/src/images/20180824_090733.png",
+    "hover_image": "/src/images/Untitled-1.png",
+    "price": 1200,
+    "name": "Face shaped earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Big Gold Statement Earrings. Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "6 g",
+        "height": "5.9 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/20181112_115711.png",
+    "hover_image": "/src/images/1.png",
+    "price": 1200,
+    "name": "Face earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "30 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/IMG_20191109_120257_423.jpg",
+    "hover_image": "/src/images/dtzjer.png",
+    "price": 1200,
+    "name": "Face shaped earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "26.7 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/20190903_084721.jpg",
+    "hover_image": "/src/images/afaw.png",
+    "price": 1200,
+    "name": "Pearl drop earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Style Sea Shell Earrings For Women. Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "11 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "color": "gold",
+    "type": "Gold stud earrings",
+    "image": "/src/images/20181112_115735.png",
+    "hover_image": "/src/images/asd.png",
+    "price": 1200,
+    "name": "Gold stud hoops",
+    "quantity": 0,
+    "stock": 0,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "30 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "color": "gold",
+    "type": "Gold stud earrings",
+    "image": "/src/images/goldclip.jpg",
+    "hover_image": "/src/images/tshshrt.png",
+    "price": 1200,
+    "name": "Gold stud earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "9.2 g",
+        "size": "2.6*2cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "color": "gold",
+    "type": "Gold stud earrings",
+    "image": "/src/images/82490468-177852085.jpg",
+    "hover_image": "/src/images/uig.png",
+    "price": 1200,
+    "name": "Gold stud earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "27.7 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/931705851-1757349417.jpg",
+    "hover_image": "/src/images/gdrter.png",
+    "price": 1200,
+    "name": "Gold pearl hoops",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Minimalist Golden Round with Shell Dangle Drop Earrings for Women. Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Copper Alloy",
+        "weight": "2.2 g",
+        "size": "5x3 cm"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "color": "gold",
+    "type": "Gold drop earrings",
+    "image": "/src/images/314653022586332583.jpg",
+    "hover_image": "/src/images/grege.png",
+    "price": 1200,
+    "name": "Face shaped earrings",
+    "quantity": 0,
+    "stock": 3,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "30 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "type": "Gold drop earrings",
+    "color": "Green",
+    "image": "/src/images/20200126_112002.jpg",
+    "hover_image": "/src/images/avsdfv.png",
+    "price": 1200,
+    "name": "Green drop earring",
+    "description": "Bohemian green tassel earring.",
+    "quantity": 0,
+    "stock": 1,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Green earring",
+        "material": "Cotton",
+        "weight": "6.7 g",
+        "height": "9 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "color": "gold",
+    "type": "Accessories",
+    "image": "/src/images/clip.jpg",
+    "hover_image": "/src/images/agergea.png",
+    "price": 1200,
+    "name": "Gold hair clip",
+    "quantity": 0,
+    "stock": 1,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "30 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "type": "Gold drop earrings",
+    "color": "Gold",
+    "image": "/src/images/20200126_112048.jpg",
+    "hover_image": "/src/images/sbrtb.png",
+    "price": 1200,
+    "name": "Gold pearl earring",
+    "description": "Gold pearl geometric earrings. Perfect for summer.",
+    "quantity": 0,
+    "stock": 4,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Gold pearl earring",
+        "material": "Zin alloy",
+        "weight": "6.7 g",
+        "height": "6 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "color": "gold",
+    "type": "Gold stud earrings",
+    "image": "/src/images/face-earring.jpg",
+    "hover_image": "/src/images/asdasdas.png",
+    "price": 1200,
+    "name": "Face ware earrings",
+    "quantity": 0,
+    "stock": 0,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "description": "Gold earrings are an alliance of delicacy and character in a cosmic and bright design. Eternally chained to freedom: a daring and elegant jewel. A design filled with contemporary minimalism in a collection that represents the eternal duality of today’s women: free, dreamer and fighter.",
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "27.5 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "type": "Gold drop earrings",
+    "color": "Gold",
+    "image": "/src/images/20200126_112059.jpg",
+    "hover_image": "/src/images/afrefe.png",
+    "price": 1200,
+    "name": "Gold pearl earring",
+    "description": "Gold pearl geometric earrings. Perfect for summer.",
+    "quantity": 0,
+    "stock": 4,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Gold pearl earring",
+        "material": "Zin alloy",
+        "weight": "6.7 g",
+        "height": "6 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "type": "Gold drop earrings",
+    "color": "Gold",
+    "image": "/src/images/20200126_112135.jpg",
+    "price": 1200,
+    "name": "Gold shell earring",
+    "description": "Gold shell with pearl geometric earrings. Perfect for summer. High-quality alloy raw material: Made of high-quality carat gold and copper material, it is durable and fade-resistant, environmentally friendly, comfortable and light, and does not cause skin allergies.",
+    "quantity": 0,
+    "stock": 4,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Gold shell earring",
+        "material": "Zin alloy",
+        "weight": "6.7 g",
+        "height": "6 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "type": "Gold drop earrings",
+    "color": "Gold",
+    "image": "/src/images/20200126_112232.jpg",
+    "hover_image": "/src/images/uiou.png",
+    "price": 1200,
+    "name": "Dive in",
+    "description": "Gold shell with pearl geometric earrings. Perfect for summer. High-quality alloy raw material: Made of high-quality carat gold and copper material, it is durable and fade-resistant, environmentally friendly, comfortable and light, and does not cause skin allergies.",
+    "quantity": 0,
+    "stock": 0,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Dive in",
+        "material": "Zin alloy",
+        "weight": "6.7 g",
+        "height": "6 cm",
+        "size": "One size only"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "type": "Gold drop earrings",
+    "color": "gold",
+    "image": "/src/images/20181112_115630.png",
+    "hover_image": "/src/images/Untitled-11.png",
+    "price": 1200,
+    "name": "Gold drop earring",
+    "description": "New Fashion gold color big hollow circle design dangle earring for women.",
+    "quantity": 0,
+    "stock": 1,
+    "totalPrice": 1200,
+    "disableButton": false,
+    "details": [
+      {
+        "title": "Gold earring",
+        "material": "Zinc Alloy",
+        "weight": "30 g",
+        "height": "5.5 cm",
+        "size": "One size only"
+      }
+    ]
+  }
+]

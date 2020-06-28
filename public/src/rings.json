@@ -1,0 +1,46 @@
+[
+    { 
+        "id": 32, 
+        "type": "Rings",
+        "color": "gold",
+        "image": "/src/images/20191117_142011.jpg", 
+        "hover_image": "/src/images/ave.png",
+        "price": 1200, 
+        "name": "Black sea", 
+        "quantity": 0,
+        "stock": 3,
+        "totalPrice": 1200, 
+        "disableButton": false,
+        "description": "Gold set of rings that includes ring with black stone, ring with Maria Maiden and square shaped ring.",
+        "details": [
+            {
+                "title": "Gold set of rings",
+                "material": "Zinc alloy", 
+                "width": "12mm", 
+                "size": "10"
+            }
+        ]
+    },
+    {
+      "id": 43,
+      "type": "Rings",
+      "color": "gold",
+      "image": "/src/images/20200126_112242.jpg",
+      "hover_image": "/src/images/grtrt.png",
+      "price": 1200,
+      "name": "Essentia gold rings",
+      "quantity": 0,
+      "stock": 3,
+      "totalPrice": 1200, 
+      "disableButton": false,
+      "description": "Gold set of rings that includes 5 rings. Square shaped ring, 3 pairs of circle rings and one with with gold stone.",
+      "details": [
+        {
+          "title": "Essentia gold rings",
+          "material": "Zinc Alloy",
+          "weight": "2.5 g",
+          "size": "10"
+        }
+      ]
+    }
+]

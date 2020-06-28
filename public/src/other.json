@@ -1,0 +1,88 @@
+[
+    {
+        "id": 33,
+        "type": "Accessories",
+        "image": "/src/images/jewelrybox.jpg",
+        "price": 1200,
+        "name": "Jewelry box",
+        "description": "Style Fresh And Simple Girl Earrings Plate Jewelry Box Protable Leather Earrings Ring Multi-function Jewelry Storage Box",
+        "quantity": 0,
+        "stock": 1,
+        "totalPrice": 1500,
+        "disableButton": false,
+        "details": [
+            {
+              "title": "Jewelry box",
+              "color": "white",
+              "weight": "290 g",
+              "size": "165*115*55mm/6.5*4.53*2.17",
+              "material": "pearlescent cross-grain leather+ pearl velvet(white)/PU leather"
+            }
+        ]
+    },
+    {
+          "id": 34,
+          "type": "Accessories",
+          "color": "gold",
+          "image": "/src/images/clip.jpg",
+          "hover_image": "/src/images/agergea.png",
+            "galery_image": "/src/images/agergea.png",
+          "price": 600,
+          "name": "Gold hair clip",
+          "description": "Gold elegant hair clip.",
+          "quantity": 0,
+          "stock": 0,
+          "totalPrice": 600,
+          "disableButton": false,
+          "details": [
+            { "title": "Gold hair clip", "color": "gold", "size": "4.5cmx6cm"
+            }
+        ]
+    },
+    {
+          "id": 37,
+          "type": "Accessories",
+          "color": "Gold",
+          "image": "/src/images/20200126_112025.jpg",
+          "hover_image": "/src/images/20200126_112035.jpg",
+          "galery_image": "/src/images/20200126_112035.jpg",
+          "price": 1200,
+          "name": "Set of hair clips",
+          "description": "Set Imitiation Pearl Minimalist Hair Accessories",
+          "quantity": 0,
+          "stock": 1,
+          "totalPrice": 1200, 
+          "disableButton": false,
+          "details": [
+            { 
+                "title": "Set of hair clips", 
+                "material": "Acrylic", 
+                "weight": "16 g", 
+                "size": "One size only"
+            }
+        ]
+    },
+    {
+          "id": 38,
+          "type": "Accessories",
+          "color": "Gold",
+          "image": "/src/images/20200126_112122.jpg",
+          "hover_image":"/src/images/20200126_112014.jpg",
+          "galery_image": "/src/images/20200126_112014.jpg",
+          "price": 1200,
+          "name": "Set of hair clips",
+          "description": "Set Imitiation Pearl Minimalist Hair Accessories",
+          "quantity": 0,
+          "stock": 1,
+          "totalPrice": 1200,
+          "disableButton": false,
+          "details": [
+            { 
+                "title": "Set of hair clips", 
+                "material": "Acrylic", 
+                "weight": "16 g", 
+                "size": "One size only"
+            }
+        ]
+    }
+]
